@@ -22,7 +22,7 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/pmezard/go-difflib v1.0.0
 	github.com/rogpeppe/go-internal v1.9.0
-	github.com/rs/zerolog v1.28.0
+	github.com/rs/zerolog v1.30.0
 	github.com/rubenv/sql-migrate v1.2.0
 	github.com/spf13/cobra v1.6.1
 	github.com/spf13/viper v1.14.0
